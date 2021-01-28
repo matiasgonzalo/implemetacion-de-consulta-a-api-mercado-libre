@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Productos Cat. A/C - Los 10 mas caros</div>
+                <div class="card-header">Productos Cat. A/C - Los 10 mas caros</div>    
                 <table class="table table-striped">
                     <thead>
                         <tr>
@@ -40,6 +40,13 @@
                         </tr>
                     </tbody>
                 </table>
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <a href="{{ route('mercadolibre.home') }}" class="btn btn-secondary btn-md btn-block">Volver</a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
