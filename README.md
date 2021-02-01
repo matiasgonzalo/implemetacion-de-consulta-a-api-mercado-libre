@@ -1,7 +1,7 @@
 # Test API Mercado Libre
 
-La aplicación debe permitir loguear un usuario de MercadoLibre, con usuario y contraseña.
-También debe mostrar una lista con los 10 artículos más caros de la categoría "Aires Acondicionados" (Categoría MLA1644) indicando en cada artículo la cantidad vendida de cada uno. En esta vista también es requerido mostrar debajo de la lista, la suma de los precios de los 10 artículos y la cantidad total vendida entre los 10 artículos de la lista.
+La aplicación permite loguear un usuario de MercadoLibre, con usuario y contraseña.
+También muestra una lista con los 10 artículos más caros de la categoría "Aires Acondicionados" (Categoría MLA1644) indicando en cada artículo la cantidad vendida de cada uno. En esta vista también se muestra la suma de los precios de los 10 artículos y la cantidad total vendida entre los 10 artículos de la lista.
 
 ## Antes de comenzar
 
